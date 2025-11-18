@@ -2,10 +2,10 @@
 # Orientador de Carreiras do Futuro
 
 
-Este projeto consiste em uma aplicação interativa desenvolvida em Python com Tkinter, capaz de analisar competências pessoais e recomendar carreiras promissoras para o futuro.  
-O sistema também apresenta uma tela dedicada a **faculdades recomendadas**, alinhadas às áreas tecnológicas e emergentes.
+Este projeto apresenta uma aplicação interativa criada em Python utilizando a biblioteca Tkinter. Ela permite analisar habilidades pessoais e, a partir disso, sugerir carreiras com grande potencial para os próximos anos.
+Além disso, o sistema conta com uma tela específica destinada a faculdades indicadas, alinhadas às áreas tecnológicas e profissionais emergentes.
 
-O objetivo é fornecer uma ferramenta simples, visual e intuitiva que ajude estudantes e profissionais a descobrirem possíveis caminhos profissionais com base em habilidades individuais.
+A ideia central é disponibilizar uma ferramenta simples, visual e prática que auxilie estudantes e profissionais a explorarem possíveis caminhos de carreira com base em suas competências.
 
 ---
 
