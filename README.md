@@ -88,7 +88,7 @@ Perfil com competências focadas em comunicação e liderança.
 
 ### 3. Demonstração – Faculdades Recomendadas
  
-Print da tela exibindo as áreas promissoras e cursos recomendados.
+Demonstração da tela que apresenta áreas de estudo promissoras e os cursos correspondentes.
 
 
 ![Image](https://github.com/user-attachments/assets/e6d50201-2064-496d-ab1d-f84050612fd0)
