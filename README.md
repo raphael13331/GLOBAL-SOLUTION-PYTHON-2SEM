@@ -39,45 +39,45 @@ A ideia central é disponibilizar uma ferramenta simples, visual e prática que 
 ├── README.md # Documentação do projeto
 
 
-### Classes Principais
+### Principais Classes
 
 #### `Perfil`
-Representa o usuário avaliado, armazenando nome e competências.  
+Representa o usuário que está sendo avaliado, contendo seu nome e as competências inseridas.
 Métodos:
 - `media()` → calcula a média das competências.
 
 #### `Orientador`
-Processa o conjunto de competências para gerar afinidade com carreiras do futuro.  
+Analisa os valores das competências e determina a afinidade com carreiras futuramente promissoras.
 Métodos:
 - `recomendar(perfil)` → retorna as três principais recomendações.
 
 #### `TelaTeste`
-Interface gráfica para preenchimento das competências e exibição das carreiras sugeridas.
+Tela gráfica onde o usuário preenche suas competências e visualiza as sugestões de carreira.
 
 #### `TelaFaculdades`
-Exibe áreas de estudo e cursos promissores para o futuro.
+Mostra áreas de estudo e cursos considerados relevantes para o futuro.
 
 #### `HomeApp`
-Tela inicial e central de navegação da aplicação.
+Tela inicial responsável pela navegação entre as demais interfaces.
 
 ---
 
 ## Demonstração
 
-A seguir estão **três áreas reservadas para demonstrar o funcionamento do projeto**.  
+A seguir estão **Abaixo estão três exemplos que ilustram o funcionamento da aplicação.**.  
 
 ---
 
-### 1. Demonstração – Caso 1: Recomendações de Carreira (Perfil A)
+### 1. Demonstração – Caso 1: Sugestões de Carreira (Perfil A)
 
-Perfil com competências focadas em lógica e análise.
+Perfil com foco em competências analíticas e de raciocínio lógico.
 
  
 ![Image](https://github.com/user-attachments/assets/fc1eb116-5292-421c-9d51-534233da4ac4)
 
 ---
 
-### 2. Demonstração – Caso 2: Recomendações de Carreira (Perfil B)
+### 2. Demonstração – Caso 2: Sugestões de Carreira (Perfil B)
 
 Perfil com competências focadas em comunicação e liderança.
 
