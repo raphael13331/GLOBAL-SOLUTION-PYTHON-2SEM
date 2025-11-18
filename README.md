@@ -73,7 +73,7 @@ A seguir estão **Abaixo estão três exemplos que ilustram o funcionamento da a
 Perfil com foco em competências analíticas e de raciocínio lógico.
 
  
-(https://github.com/user-attachments/assets/fc1eb116-5292-421c-9d51-534233da4ac4)
+![Image](https://github.com/user-attachments/assets/fc1eb116-5292-421c-9d51-534233da4ac4)
 
 ---
 
