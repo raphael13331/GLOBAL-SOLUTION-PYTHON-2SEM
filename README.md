@@ -70,23 +70,32 @@ A seguir estão **Abaixo estão três exemplos que ilustram o funcionamento da a
 
 ### 1. Demonstração – layout: orientador de Carreira 
 
-Perfil com foco em competências analíticas e de raciocínio lógico.
+Layout para fazer o teste.
 
  
 ![Image](https://github.com/user-attachments/assets/99e1c65c-900e-4568-b961-d52a00eb8a22)
 
 ---
 
-### 2. Demonstração – Caso 2: Sugestões de Carreira (Perfil B)
+### 2. Demonstração – Caso 2: Sugestões de Carreira (Perfil A)
 
-Perfil com competências focadas em comunicação e liderança.
+Perfil com competências focadas em lógica, análise e planejamento.
 
  
 ![Image](https://github.com/user-attachments/assets/1a0e6767-8b39-4da4-862b-eafdaba89db5)
 
 ---
 
-### 3. Demonstração – Faculdades Recomendadas
+### 3. Demonstração – Caso 2: Sugestões de Carreira (Perfil B)
+
+Perfil com competências focadas em comunicação e liderança.
+
+ 
+![Image](https://github.com/user-attachments/assets/ed5e0a1a-aeca-4eb1-96c2-d414199dbca1)
+
+---
+
+### 4. Demonstração – Faculdades Recomendadas
  
 Demonstração da tela que apresenta áreas de estudo promissoras e os cursos correspondentes.
 
