@@ -91,7 +91,7 @@ Perfil com competências focadas em lógica, análise e planejamento.
 Perfil com competências focadas em comunicação e liderança.
 
  
-![Image](https://github.com/user-attachments/assets/ed5e0a1a-aeca-4eb1-96c2-d414199dbca1)
+![Image](https://github.com/user-attachments/assets/c9b882e8-e9d1-4cd5-b025-6f55177dc746)
 
 ---
 
