@@ -13,8 +13,7 @@ A ideia central é disponibilizar uma ferramenta simples, visual e prática que 
 
 ### Pré-requisitos
 - Python 3.10+
-- Instalar dependências:
-`pip install pillow`
+
 
 - Arquivo de imagem `bg.png` deve estar no mesmo diretório do projeto.
 
