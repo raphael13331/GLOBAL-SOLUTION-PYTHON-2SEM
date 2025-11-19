@@ -48,7 +48,7 @@ Métodos:
 #### `Orientador`
 Analisa os valores das competências e determina a afinidade com carreiras futuramente promissoras.
 Métodos:
-- `recomendar(perfil)` → retorna as três principais recomendações.
+- `recomendar(perfil)` → retorna as cinco principais recomendações.
 
 #### `TelaTeste`
 Tela gráfica onde o usuário preenche suas competências e visualiza as sugestões de carreira.
