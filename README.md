@@ -68,12 +68,12 @@ A seguir estão **Abaixo estão três exemplos que ilustram o funcionamento da a
 
 ---
 
-### 1. Demonstração – Caso 1: Sugestões de Carreira (Perfil A)
+### 1. Demonstração – layout: orientador de Carreira 
 
 Perfil com foco em competências analíticas e de raciocínio lógico.
 
  
-![Image](https://github.com/user-attachments/assets/fc1eb116-5292-421c-9d51-534233da4ac4)
+![Image](https://github.com/user-attachments/assets/99e1c65c-900e-4568-b961-d52a00eb8a22)
 
 ---
 
@@ -82,7 +82,7 @@ Perfil com foco em competências analíticas e de raciocínio lógico.
 Perfil com competências focadas em comunicação e liderança.
 
  
-![Image](https://github.com/user-attachments/assets/b856e405-d858-496f-876d-a526f7d957b0)
+![Image](https://github.com/user-attachments/assets/1a0e6767-8b39-4da4-862b-eafdaba89db5)
 
 ---
 
@@ -91,6 +91,6 @@ Perfil com competências focadas em comunicação e liderança.
 Demonstração da tela que apresenta áreas de estudo promissoras e os cursos correspondentes.
 
 
-![Image](https://github.com/user-attachments/assets/e6d50201-2064-496d-ab1d-f84050612fd0)
+![Image](https://github.com/user-attachments/assets/60d439e2-2b94-446d-a478-6845b4cd874a)
 
 ---
